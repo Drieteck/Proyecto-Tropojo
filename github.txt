@@ -9,7 +9,7 @@ Hosting barato normal --> /public_html/ <-- FTP
 
 	leonidas.jpg
 
-www.fuckencio.com
+www.tropoja.com
 
 
 
